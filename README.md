@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
 
+## File whih Const
+
+https://docs.google.com/document/d/1WQJ0LZZsiWIPNw9mlyjxwmZe3eaUiF1T6E4YRraC40I/edit
+
 ## Recomendations
 
 Use Node version 14.16.0
